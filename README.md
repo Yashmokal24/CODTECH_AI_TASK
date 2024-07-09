@@ -1,9 +1,9 @@
- Name :Yash Kalidas Mokal
- Company :CODTECH IT SOLUTIONS
- Inter ID :CT08DS3502
- Domain :Artificial Intelligence
- Duration :July to August 2024
- Mentor :Neela Santhosh Kumar
+# Name :Yash Kalidas Mokal
+# Company :CODTECH IT SOLUTIONS
+# Inter ID :CT08DS3502
+# Domain :Artificial Intelligence
+# Duration :July to August 2024
+# Mentor :Neela Santhosh Kumar
 
 
 # Project: Data Preprocessing on Life Expectancy Dataset
